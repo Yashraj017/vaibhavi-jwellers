@@ -1,0 +1,9 @@
+.navbar-brand{
+    border: 2px solid;
+    border-radius: 5%;
+ padding-left: 3px;
+ padding-right: 3px;
+    background-color: rgb(129, 84, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
